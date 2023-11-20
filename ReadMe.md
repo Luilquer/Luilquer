@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Olá, Sou o Carlos Luilquer
 - 👨‍🎓 Estudante de Engenharia de Computação - UFSC <br><br>- 🎯 Interesses: Python, C, C++, PHP.<br><br>- 🥅 Objetivo: Aprender e desenvolver.<br><br>-📫 E-mail de contato: luilquer.santos@gmail.com | carlos.luilquer@grad.ufsc.br
 
 
